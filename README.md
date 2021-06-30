@@ -1,5 +1,4 @@
-# Prosper Loan Data Exploration
-## by Audrey Dogbeh
+# Prosper Loans Dataset Exploration and Analysis
 
 ## Dataset
 
@@ -23,7 +22,7 @@ I also looked into the Prosper rating: the lower the ratings, the more unpaid lo
 
 ## Key Insights for Presentation
 
-FOr the presentation I focus on the influence of debt-to-income ratio, the loan-to-income ratio and the Prosper rating on the incidence of unpaid loans.
+For the presentation I focus on the influence of debt-to-income ratio, the loan-to-income ratio and the Prosper rating on the incidence of unpaid loans.
 
 I start by showing the bar chart with the frequencies of paid and unpaid loans, to give an overview of the problem.
 
