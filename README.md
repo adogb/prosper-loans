@@ -1,5 +1,8 @@
 # Prosper Loans Dataset Exploration and Analysis
 
+Link to the report: [Prosper Loans Dataset Exploration and Analysis](https://adogb.github.io/prosper-loans/)
+See exploration.html for the initial exploratory analysis.
+
 ## Dataset
 
 The dataset includes 110,000+ listings of consumer loans provided by Prosper, with information on the borrower and loan details and status, among others. I was only interested in looking at closed loans, so my deataset was actually 43,000+ listings.
