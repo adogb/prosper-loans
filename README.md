@@ -1,6 +1,7 @@
 # Prosper Loans Dataset Exploration and Analysis
 
 Link to the report: [Prosper Loans Dataset Exploration and Analysis](https://adogb.github.io/prosper-loans/)
+
 See exploration.html for the initial exploratory analysis.
 
 ## Dataset
